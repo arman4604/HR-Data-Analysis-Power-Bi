@@ -1,6 +1,6 @@
-HR Analytics Dashboard – Power BI
+## HR Analytics Dashboard – Power BI
 
-Interactive HR analytics dashboard made in Microsoft Power BI, for analyzing employee data, workforce distribution, employee attrition, salary slabs, jobs roles, job satisfaction, and employee experience.
+Interactive HR analytics dashboard made in Microsoft Power BI for analyzing employee data, workforce distribution, employee attrition, salary slabs, jobs roles, job satisfaction and employee experience.
 
 ## Purpose of the Project
 
@@ -8,7 +8,7 @@ The purpose of this project is to make sense of the data and get meaningful insi
 
 ## Data Source
 
-In this project, the data source is prepared using Microsoft Excel, and this Excel data is then imported in Power BI for data cleaning, transformation, analysis, and visualization.
+In this project, the data source is prepared using Microsoft Excel and this Excel data is then imported in Power BI for data cleaning, transformation, analysis and visualization.
 
 Data Source: Microsoft Excel
 Analysis & Visualization: Microsoft Power BI
@@ -44,7 +44,7 @@ Dashboard allows for an interactive analysis of:
 - Overall attrition rate is 17.79%
 - 29 people out of total 163 people attrited
 - The highest number of employees are in 6-10 LPA salary band
-- Attrition can be compared department wise, salary wise, gender wise, and experience level wise
+- Attrition can be compared department wise, salary wise, gender wise and experience level wise
 - Demographics and job satisfaction help in understanding workforce
 
 ## Dashboard Preview
@@ -63,5 +63,5 @@ Dashboard allows for an interactive analysis of:
 - Dashboard Design
 - Business Insight Generation
 
-👤 Author
+## Author
 Md. Arman Uddin
