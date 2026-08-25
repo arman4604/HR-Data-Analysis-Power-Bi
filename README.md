@@ -48,6 +48,7 @@ Dashboard allows for an interactive analysis of:
 - Demographics and job satisfaction help in understanding workforce
 
 ## Dashboard Preview
+![HR Analytics Dashboard](HR%20analysis%20Dashboard%20by%20Arman.png)
 
 ## Project files
 - HR analysis Dashboard by Arman.pbix - Power BI Project File
