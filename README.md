@@ -47,8 +47,11 @@ Dashboard allows for an interactive analysis of:
 - Attrition can be compared department wise, salary wise, gender wise and experience level wise
 - Demographics and job satisfaction help in understanding workforce
 
+
 ## Dashboard Preview
 ![HR Analytics Dashboard](HR%20analysis%20Dashboard%20by%20Arman.png)
+
+
 
 ## Project files
 - HR analysis Dashboard by Arman.pbix - Power BI Project File
