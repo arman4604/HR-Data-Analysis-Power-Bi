@@ -1,53 +1,67 @@
-#HR Analytics Dashboard – Power BI
+HR Analytics Dashboard – Power BI
 
-HR Analytics Dashboard created by using Microsoft Power BI for analyzing employees, employee distribution, attrition of employees, salary slabs, jobs, job satisfaction, and experience.
+Interactive HR analytics dashboard made in Microsoft Power BI, for analyzing employee data, workforce distribution, employee attrition, salary slabs, jobs roles, job satisfaction, and employee experience.
 
-#Project Objective
+## Purpose of the Project
 
-This project aims at transforming data related to HR into valuable visual insights which can be used for analysis of HR metrics and employee attrition.
+The purpose of this project is to make sense of the data and get meaningful insights from HR data by understanding the workforce patterns and employee attrition and HR metrics.
 
-#Tools & Technologies
-Microsoft Power BI
-Power Query – Data Cleaning and Transformation
-DAX – Measures and KPI Calculations
-Data Visualization – Interactive charts, cards, and filters
+## Data Source
 
-#Key KPIs
-Total Number of Employees: 163
+In this project, the data source is prepared using Microsoft Excel, and this Excel data is then imported in Power BI for data cleaning, transformation, analysis, and visualization.
+
+Data Source: Microsoft Excel
+Analysis & Visualization: Microsoft Power BI
+
+## Tools & Technologies Used
+Microsoft Excel – For collecting and preparing the data
+Power Query – For data cleaning and transformation
+DAX – Measures and KPIs calculation
+Microsoft Power BI – For data analysis and visualization
+Interactive Visualizations – Charts, cards, slicers & filters
+
+## Important KPIs
+Number of Total Employees: 163
 Number of Active Employees: 134
 Number of Attrition: 29
-Attrition Percentage: 17.79%
-Average Age: 44.96 years
-Average Experience: 9.43 years
+Attrition Rate: 17.79%
+Average Age: 44.96 Years
+Average Experience: 9.43 Years
 
-#Features of Dashboard
+## Key features in Dashboard
+Dashboard allows for an interactive analysis of:
+- Attrition of Employees by Departments
+- Attrition by Salary Band
+- Employees by job roles
+- Job Satisfaction
+- Age Group Distribution
+- Gender-wise Attrition
+- Attrition by Experience Level
+- Employees distribution by Departments
+- Filterable by Department-wise
 
-The dashboard includes the following analyses of the variables:
+## Insights from the Analysis
+- Overall attrition rate is 17.79%
+- 29 people out of total 163 people attrited
+- The highest number of employees are in 6-10 LPA salary band
+- Attrition can be compared department wise, salary wise, gender wise, and experience level wise
+- Demographics and job satisfaction help in understanding workforce
 
-- Employee attrition per department
-- Attrition by salary bands
-- Job Role and Job Satisfaction
-- Age groups' distribution
-- Attrition by gender
-- Experience-based trend of attrition
-- Distribution of employees in different departments
-- Filtering by departments
+## Dashboard Preview
 
-#Key Takeaways
+## Project files
+- HR analysis Dashboard by Arman.pbix - Power BI Project File
+- HR analysis Dashboard by Arman.png - Dashboard Preview
 
-- The total percentage of employee attrition is 17.79%
-- Total 29 employees are left from the total number of 163 employees.
-- 6-10 LPA salary bands are having maximum employees.
-- Comparisons of attrition can be done easily by departments, salary bands, gender and experience.
-- Job satisfaction and demographics of employees can be analyzed interactively.
+## Skills used in the Project
+- Data cleaning and Transformation
+- Data Analysis
+- DAX Measures
+- KPI Development
+- Data Visualization
+- HR Analytics
+- Dashboard Design
+- Business Insight Generation
 
-Preview of Dashboard
-
-Files of Project
-
-- HR analysis Dashboard by Arman.pbix — Power BI project file
-- HR analysis Dashboard by Arman.png — Dashboard preview
-
-#Author
-
+👤 Author
 Md. Arman Uddin
